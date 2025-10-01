@@ -4,7 +4,6 @@
 **Theme: Water Management for a Sustainable and Resilient Agriculture in Africa**  
 📍 Morocco, 2025
 
----
 
 ## About
 
@@ -19,7 +18,6 @@ Participants learn how to:
 - Build **introductory machine learning models** for predicting weather and soil variables
 - Interpret results with clear and compelling visualizations
 
----
 
 ## Workshop Structure
 
@@ -47,7 +45,6 @@ Participants learn how to:
    - Van Genuchten soil parameters
    - Soil texture and water retention (θFC, θWP, PAW)
 
----
 
 ## Requirements
 
