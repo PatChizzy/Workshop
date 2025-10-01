@@ -4,7 +4,7 @@
 **Theme: Water Management for a Sustainable and Resilient Agriculture in Africa**  
 📍 Morocco, 2025
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PatChizzy/Woekshop/blob/master/eto_etc_python.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PatChizzy/Workshop/blob/master/eto_etc_python.ipynb)
 
 ## About
 
