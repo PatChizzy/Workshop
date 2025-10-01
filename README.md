@@ -1,4 +1,4 @@
-# Conference Workshop
+# PASAE Conference Workshop
 
 **7th Conference of the Pan African Society for Agricultural Engineering (ANAFIDE-PASAE / Afro-AgEng)**,  
 **Theme: Water Management for a Sustainable and Resilient Agriculture in Africa**  
