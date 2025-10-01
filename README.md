@@ -44,6 +44,16 @@ Participants learn how to:
 5. **Soil Water Analysis**
    - Van Genuchten soil parameters
    - Soil texture and water retention (θFC, θWP, PAW)
+  
+6. **Satellite Resource Data**  
+   - **CHIRPS (Climate Hazards Group InfraRed Precipitation with Station data)** - rainfall estimates from 1981 to present, useful for drought and rainfall monitoring.  
+   - **ERA5 (ECMWF Reanalysis)** - global reanalysis providing temperature, humidity, wind, and pressure fields at hourly to monthly scales.  
+   - **Sentinel-2** – high-resolution optical satellite imagery (10-20 m) for vegetation indices such as NDVI and SAVI.  
+   - **Landsat (8/9 OLI/TIRS)** - long-term multispectral archive for land cover change, vegetation condition, and land surface temperature.  
+   - **FAO WaPOR** – crop water productivity datasets including actual evapotranspiration and biomass production across Africa.  
+   - **Digital Earth Africa** – decision-ready geospatial products derived from Landsat, Sentinel, and other sources tailored for the African continent.  
+
+   These resources will be demonstrated in simple Python/Colab exercises to highlight how satellite observations can extend irrigation monitoring to areas where weather station coverage is sparse.  
 
 
 ## Requirements
