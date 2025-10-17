@@ -59,6 +59,7 @@ Participants learn how to:
 
 ## Requirements
 
+- Gmail / Google Account
 - Python 3.8+
 - Jupyter Notebook / Google Colab
 - Recommended libraries:
